@@ -1,7 +1,7 @@
 /*Main Page*/
 
 body {
-    background-color: #276678;
+    background-color: #D3E0EA;
 }
 
 a{
@@ -67,7 +67,7 @@ ul.list {
     clear: both;
     padding: 10px;
     text-align: center;
-    background-color: #548CA8;
+    background-color: #276678;
     color: #F6F5F5;
     font-family: monospace;
     font-size: 15px;
