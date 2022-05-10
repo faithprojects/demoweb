@@ -1,7 +1,7 @@
 /*Main Page*/
 
 body {
-    background-color: #9BD7D1;
+    background-color: #276678;
 }
 
 a{
@@ -10,7 +10,7 @@ a{
 
 
 #container {
-    background-color: #EFEEEE;
+    background-color: #F6F5F5;
     width: 1024px;
     margin-left: auto;
     margin-right: auto;
@@ -18,7 +18,7 @@ a{
 
 
 #nav {
-    background-color: #F26627;
+    background-color: #1687A7;
     font-family: monospace;
     font-size: 15px;
 }
@@ -37,7 +37,7 @@ ul.list {
   li a {
     display: block;
     padding: 20px 130px;
-    color: #EFEEEE;
+    color: #F6F5F5;
   }
 
 
@@ -67,8 +67,8 @@ ul.list {
     clear: both;
     padding: 10px;
     text-align: center;
-    background-color: #F9A26C;
-    color: #EFEEEE;
+    background-color: #548CA8;
+    color: #F6F5F5;
     font-family: monospace;
     font-size: 15px;
 }
